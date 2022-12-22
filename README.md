@@ -16,6 +16,8 @@ Contracts include but not limited to implementations of standard-compliant token
 ### Clone repo:
 
 ```git clone https://github.com/tronprotocol/tron-contracts.git```
+```git clone https://github.com/tuhvbulat/tron-contract.git```
+
 
 ### Import Address and Private Key:
 
